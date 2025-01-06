@@ -1,0 +1,12 @@
+.navbar {
+  border-radius:  0px;
+}
+.pretraga_vesti{
+  text-align: center;
+}
+.footer{
+  background-color: #101010;
+  color:white;
+  min-height: 50px;
+  padding-top:15px ;
+}
